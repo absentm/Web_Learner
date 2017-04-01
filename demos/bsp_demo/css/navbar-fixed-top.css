@@ -3,7 +3,16 @@ body {
     padding-top: 0px;
 }
 
+/*.navbar {*/
+    /*background-color: rgba(0, 0, 0, 0.8);*/
+    /*border-color: rgba(0, 0, 0, 0.8);*/
+/*}*/
+
+/*.navbar li {*/
+    /*color: rgba(0, 0, 0, 0.8);*/
+/*}*/
+
 .response-img {
-    max-width: 100%;
+    /*max-width: 100%;*/
     width: 100%;
 }
